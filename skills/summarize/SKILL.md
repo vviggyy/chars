@@ -1,3 +1,7 @@
+---
+description: Summarize SLURM jobs from recent activity. Use when the user pastes sacct output or asks about job statuses.
+---
+
 # Summarize SLURM Jobs
 
 Analyze and summarize SLURM jobs provided by the user. The user will paste `sacct` output or job IDs with statuses.
